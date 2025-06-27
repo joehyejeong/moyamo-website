@@ -1,5 +1,5 @@
 // 개발용 목 데이터 (API 응답 구조에 맞춤)
-const standingGlbUrl = '/src/assets/models/Standing.glb';
+const standingGlbUrl = '/src/assets/victory.glb';
 export const quizMockData = [
   {
     question_id: 1,
