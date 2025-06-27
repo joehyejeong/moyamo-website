@@ -44,10 +44,10 @@ export const quizMockData = [
     question_type: 'GESTURE',
     gesture_url: null,
     options: [
-      {
-        option_id: 21,
+     {
+        option_id: 22,
         option_meaning: null,
-        gesture_id: 10,
+        gesture_id: 15,
         gesture_image: standingGlbUrl,
       },
       {
@@ -63,9 +63,9 @@ export const quizMockData = [
         gesture_image: standingGlbUrl,
       },
       {
-        option_id: 24,
+         option_id: 23,
         option_meaning: null,
-        gesture_id: 17,
+        gesture_id: 16,
         gesture_image: standingGlbUrl,
       },
     ],
