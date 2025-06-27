@@ -8,46 +8,9 @@ export const quizMockData = [
     gesture_url: standingGlbUrl,
     options: [
       {
-        option_id: 1,
-        option_meaning: '승리',
-        gesture_id: null,
-        gesture_image: null,
-      },
-      {
-        option_id: 2,
-        option_meaning: '평화',
-        gesture_id: null,
-        gesture_image: null,
-      },
-      {
-        option_id: 3,
-        option_meaning: '모욕',
-        gesture_id: null,
-        gesture_image: null,
-      },
-      {
-        option_id: 4,
-        option_meaning: '인사',
-        gesture_id: null,
-        gesture_image: null,
-      },
-    ],
-    answer: {
-      answer_id: 1,
-      answer_option_id: 1,
-      correct_gesture_name: null,
-    },
-  },
-  {
-    question_id: 6,
-    question_text: '[MOCK]미국에서 이 제스처는 돈을 의미합니다. 이 제스처는 무엇일까요?',
-    question_type: 'GESTURE',
-    gesture_url: null,
-    options: [
-     {
-        option_id: 22,
+        option_id: 21,
         option_meaning: null,
-        gesture_id: 15,
+        gesture_id: 10,
         gesture_image: standingGlbUrl,
       },
       {
@@ -63,9 +26,46 @@ export const quizMockData = [
         gesture_image: standingGlbUrl,
       },
       {
-         option_id: 23,
+        option_id: 24,
+        option_meaning: null,
+        gesture_id: 17,
+        gesture_image: standingGlbUrl,
+      },
+    ],
+    answer: {
+      answer_id: 1,
+      answer_option_id: 1,
+      correct_gesture_name: null,
+    },
+  },
+  {
+    question_id: 6,
+    question_text: '[MOCK]미국에서 이 제스처는 돈을 의미합니다. 이 제스처는 무엇일까요?',
+    question_type: 'GESTURE',
+    gesture_url: null,
+    options: [
+     {
+        option_id: 21,
+        option_meaning: null,
+        gesture_id: 10,
+        gesture_image: standingGlbUrl,
+      },
+      {
+        option_id: 22,
+        option_meaning: null,
+        gesture_id: 15,
+        gesture_image: standingGlbUrl,
+      },
+      {
+        option_id: 23,
         option_meaning: null,
         gesture_id: 16,
+        gesture_image: standingGlbUrl,
+      },
+      {
+        option_id: 24,
+        option_meaning: null,
+        gesture_id: 17,
         gesture_image: standingGlbUrl,
       },
     ],
