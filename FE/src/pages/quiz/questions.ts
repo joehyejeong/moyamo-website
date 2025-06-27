@@ -10,7 +10,7 @@ export const quizMockData = [
       {
         option_id: 21,
         option_meaning: null,
-        gesture_id: 10,
+        gesture_id: 12,
         gesture_image: standingGlbUrl,
       },
       {
@@ -28,7 +28,7 @@ export const quizMockData = [
       {
         option_id: 24,
         option_meaning: null,
-        gesture_id: 17,
+        gesture_id: 30,
         gesture_image: standingGlbUrl,
       },
     ],
@@ -47,7 +47,7 @@ export const quizMockData = [
      {
         option_id: 21,
         option_meaning: null,
-        gesture_id: 10,
+        gesture_id: 7,
         gesture_image: standingGlbUrl,
       },
       {
