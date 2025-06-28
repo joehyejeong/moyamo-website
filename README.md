@@ -1,5 +1,6 @@
 # ✌️MoyaMo 모야모
-![Group_218](/uploads/fe6799fcdca7268bd864a1aa54ac6341/Group_218.png)
+![Group_218](https://github.com/user-attachments/assets/5f7e6466-0612-4648-9319-4baed9aef462)
+
 
 ## 📑 목차
 - [프로젝트 소개](#-프로젝트-소개)
@@ -31,35 +32,39 @@
 
 ## 💻 화면
 ### 1. 메인화면
-![홈화면](/uploads/4df8297fe04c3fcf54b7a552635142a9/홈화면.png)
+![홈화면](https://github.com/user-attachments/assets/3a8c0003-0f62-4bce-82bc-f11bfdc7c218)
+
 
 ### 2. 제스처 검색
 **키워드 검색**
-![키워드검색](/uploads/3f0d807288472d5d022578de380dd57f/image.png)
+![image](https://github.com/user-attachments/assets/291f1b8e-60dd-4880-a974-1340c522bee7)
+
 
 **제스처 검색**
-![제스처검색](/uploads/e253b2e595784a9088cd204d9b88fa06/image.png)
+![image (1)](https://github.com/user-attachments/assets/fc978c09-5e24-4592-9cbd-f04e3c49ed22)
 
 ### 3-1. 제스처 사전
 **디테일**
-![디테일3](/uploads/41e0387a28c956ed0de5182c296ac76a/디테일3.png)
+![디테일3](https://github.com/user-attachments/assets/076b672a-2a2f-4bb3-8db7-1e15e1f13e88)
+
 
 **비교가이드**
-![비교가이드3](/uploads/5ac52dc6aaf93cf5f65d76b364e9b01b/비교가이드3.png)
+![비교가이드3](https://github.com/user-attachments/assets/69ad79cf-9304-4e1c-870d-d14e0e789d9f)
+
 
 ### 3-2. AI 연습
-![연습3__1_](/uploads/9c43e5b5fe74144be0331cac0479ece4/연습3__1_.gif)
+![연습3__1_](https://github.com/user-attachments/assets/23922986-31b0-4a16-b9c7-258e21fe04ef)
 
 ### 4-1. 의미 맞추기 퀴즈 
-![의미맞추기퀴즈](/uploads/b4fd7e3c60b2d85eefbc299e6ae06932/의미맞추기퀴즈.gif)
+![의미맞추기퀴즈](https://github.com/user-attachments/assets/1d851db7-e6e4-47c5-9d1f-89a2daf5a2a7)
+
 
 ### 4-2. 제스처 맞추기 퀴즈 
-![제스처맞추기퀴즈](/uploads/18c9590167f19d8af849fb4c65c957fc/제스처맞추기퀴즈.gif)
+![제스처맞추기퀴즈](https://github.com/user-attachments/assets/09388a33-e16a-4a06-bc0c-b0597e1f3d2e)
 
 
 ### 4-3. AI 인식 퀴즈
-![ai퀴즈](/uploads/3dd5f1a0d317c0f9f44344793b02c215/ai퀴즈.gif)
-
+![인식퀴즈](https://github.com/user-attachments/assets/4e58f38d-90b8-42d8-9f6b-7c659754b0f1)
 
 
 
@@ -180,7 +185,7 @@
 ```
 
 ### 📚 ERD
-![image](/uploads/2b4e562662dd91b9f08e8858166d9623/image.png){width=966 height=423}
+![image (2)](https://github.com/user-attachments/assets/f62d664f-3fea-40eb-be15-567cd5427c18)
 
 ### ⚙️ 설치 및 실행 방법
 ```bash
